@@ -1,4 +1,4 @@
-Welcome to the [U.S. Life Cycle Inventory Database (USLCI)][uslci_landing] Submission Guide!  This guide is composed of a [Submission Handbook](Submission-Handbook.md) and a [Resources file][link goes here].
+Welcome to the [U.S. Life Cycle Inventory Database (USLCI)][uslci_landing] Submission Guide!  This guide is composed of a [Submission Handbook](submission-handbook.md) and a [Resources file][link goes here].
 
 The [Submission Handbook](Submission-Handbook.md) is intended to help potential data submitters find answers related to two questions:
   1. Should I publish my data in the USLCI?
