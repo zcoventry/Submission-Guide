@@ -1,7 +1,7 @@
 # Table of Contents
 <br>
 
-## 1. [USLCI Submission Guide Landing Page](README.md)
+## 1. [Landing Page](README.md)
 
 ## 2. [Submission Handbook](submission-handbook.md)
 
