@@ -6,7 +6,7 @@ The [Submission Handbook](submission-handbook.md) is intended to help potential 
 
 The [Resources file][link goes here] contains resources which support the data submission process.
 
-A detailed list of Submission Guide pages and resource is available [here]table-of-contents.md).
+A detailed list of Submission Guide pages and resource is available [here](table-of-contents.md).
 
 ## Links
 This section contains the URLs for the linked text in this page. These URLs are intentionally not rendered when this page is viewed as HTML.  To see the URLs, view this page as a text file or [Markdown][markdown] file.  
