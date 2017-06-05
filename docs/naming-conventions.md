@@ -1,4 +1,5 @@
-## USLCI naming convention
+# Naming Convention
+<br>
 
 | Field Name | Convention | Examples |
 |:---:|:---|:---|
