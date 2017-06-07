@@ -10,4 +10,4 @@ The [Resources folder][resources_folder] contains templates, tools, and other fi
 
 [markdown]: https://daringfireball.net/projects/markdown/   
 [uslci_landing]: http://www.nrel.gov/lci/  
-[resources_folder]: https://github.com/zcoventry/Submission-Guide/tree/master/resources   
+[resources_folder]: https://github.com/isdapps/lcac_submission_resources/tree/master/resources   
