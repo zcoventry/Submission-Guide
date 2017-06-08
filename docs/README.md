@@ -1,4 +1,4 @@
- Welcome to the Submission Guide for the [U.S. Life Cycle Inventory Database (USLCI)][uslci_landing]!  A list of all files contained in the Submission Guide is contained in the [Table of Contents](table-of-contents.md).
+Welcome to the Submission Guide for the [U.S. Life Cycle Inventory Database (USLCI)][uslci_landing]!  A list of all files contained in the Submission Guide is contained in the [Table of Contents](table-of-contents.md).
 
 At a high level, the Submission Guide is composed of a [Submission Handbook](submission-handbook.md) and a [Resources folder][resources_folder].  The [Submission Handbook](submission-handbook.md) is intended to help potential data submitters find answers related to two questions:
   1. [Should I publish my data in the USLCI?](should-i-publish-in-the-uslci.md)
