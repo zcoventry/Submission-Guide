@@ -1,36 +1,27 @@
 This page contains a detailed guidance for publishing data in the [USLCI][uslci_landing].  It is intended as a resource for those who have already decided that publishing their data in the USLCI fits their publication goals and are looking for details on how to go about it.  Those who are still considering whether or not to publish their data on the USLCI should read *[Should I publish in the USLCI?](should-i-publish-in-the-uslci.md)*
 
-**To begin the data publication process, please submit this brief web form** and a member of the USLCI data curation team will contact you via email.
+**To begin the publication process, please submit this brief web form** and a member of the USLCI digital curation team will contact you via email.
 
-## Table of contents
-  * [The Data Curation Life Cycle](#The Data Curation Life Cycle)
+This page is divided into the following sections and subsections.
+  1. What is digital LCI data curation?
+  2. What to expect during the digital curation process
+    * Time requirements for publishing LCI data
+    * USLCI publication schedule
+    * [The digital curation life cyle](#The Data Curation Life Cycle)
+    * What to expect during each life cycle phase
+  3. Working with NREL
+    * How we communicate
+    * Our data publication platorm
+
+  2.
+
   * [Communication](#Communication)
 
-## Working with NREL
-The data publication process is a collaborative effort between you (i.e., the Data Provider) and the National Renewable Energy Laboratory (NREL).  Practically speaking, that means you will be working closely with one of NREL's Life Cycle Inventory (LCI) Data Curators throughout the publication process.
+## What is digital LCI data curation?
 
-The Data Curator's role is to guide you through the publication process.  This person is trained in LCI data curation and can help you troubleshoot technical issues related to the openLCA platform.
+## What to expect during the data publication process
 
-Your role in the publication process is transform your raw LCI data into a polished product that is ready for publication in the USLCI.  This means putting your data into the USLCI's [chosen data format](#data-publication-platform).
-
- and to pair your data with robust metadata so that users of your data understand how to use it properly.  
-
-to use the USLCI Submission
-
-The documentation and resources in the USLCI Submission Guide will be important resources in that process.
-
-### How we communicate
-We use [Slack][slack] as our primary written communication tool.  Slack allows the user great flexibility in communication because of its ability to push communication to/from email accounts, mobile devices, etc.   Furthermore, it provides context during communication through the ability to set up various channels based on conversation topic.  
-
-Early in the publication process the Data Curator will work with you to get you set up on Slack.
-
-<a id="data-publication-platform"></a>
-### Our data publication platorm
-NREL uses [openLCA v1.6][openlca_v16] as its platform for receiving, reviewing, and publishing LCI data.  [OpenLCA][openlca] is a free, opensource LCA software platform that is able to import data from many commercial LCA software applications including GaBi and SimaPro.
-
-Early in the publication process the Data Curator will work with you to get you set up on Slack.
-
-## Data curation life cycle
+### Data curation life cycle
 The data curation life cycle is comprised of four phases:
   * Ingest
   * Review
@@ -45,6 +36,34 @@ The USLCI is updated with new and revised data on a quarterly basis:
   * June 30
   * September 30
   * December 31
+
+The data publication process is divided into four phases:
+  * Ingest
+  * Review
+  * Publication
+  * Preservation
+
+## Working with NREL
+The data publication process is a collaborative effort between you (i.e., the Data Provider) and the National Renewable Energy Laboratory (NREL).  Practically speaking, that means you will be working closely with one of NREL's Life Cycle Inventory (LCI) Data Curators throughout the publication process.
+
+The Data Curator's role is to guide you through the publication process.  This person is trained in LCI data curation and can help you troubleshoot technical issues related to the openLCA platform.
+
+Your role in the publication process is transform your raw LCI data into a polished product that is ready for publication in the USLCI.  This means putting your data into the USLCI's [chosen data format](#data-publication-platform) and also pairing your data with robust metadata so that users of your data understand how to use it properly.  
+
+The documentation and resources in the USLCI Submission Guide will be important resources in that process.
+
+### How we communicate
+We use [Slack][slack] as our primary written communication tool.  Slack allows the user great flexibility in communication because of its ability to push communication to/from email accounts, mobile devices, etc.   Furthermore, it provides context during communication through the ability to set up various channels based on conversation topic.  
+
+Early in the publication process the Data Curator will work with you to get you set up on Slack.
+
+<a id="data-publication-platform"></a>
+### Our data publication platorm
+NREL uses [openLCA v1.6][openlca_v16] as its platform for receiving, reviewing, and publishing LCI data.  [OpenLCA][openlca] is a free, opensource LCA software platform that is able to import data from many commercial LCA software applications including GaBi and SimaPro.
+
+Early in the publication process the Data Curator will work with you to get you set up on Slack.
+
+
 
 ###
 
