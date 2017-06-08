@@ -11,7 +11,7 @@ The data publication process is a collaborative effort between you (i.e., the Da
 
 The Data Curator's role is to guide you through the publication process.  This person is trained in LCI data curation and can help you troubleshoot technical issues related to the openLCA platform.
 
-Your role in the publication process is transform your raw LCI data into a polished product that is ready for publication in the USLCI.  This means putting your data into the USLCI's [chosen data format](#data-publication-platform)
+Your role in the publication process is transform your raw LCI data into a polished product that is ready for publication in the USLCI.  This means putting your data into the USLCI's [chosen data format](#data-publication-platform).
 
  and to pair your data with robust metadata so that users of your data understand how to use it properly.  
 
@@ -24,7 +24,8 @@ We use [Slack][slack] as our primary written communication tool.  Slack allows t
 
 Early in the publication process the Data Curator will work with you to get you set up on Slack.
 
-### Our data publication platorm <a id="data-publication-platform"></a>
+<a id="data-publication-platform"></a>
+### Our data publication platorm
 NREL uses [openLCA v1.6][openlca_v16] as its platform for receiving, reviewing, and publishing LCI data.  [OpenLCA][openlca] is a free, opensource LCA software platform that is able to import data from many commercial LCA software applications including GaBi and SimaPro.
 
 Early in the publication process the Data Curator will work with you to get you set up on Slack.
