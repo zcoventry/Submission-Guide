@@ -1,8 +1,8 @@
 # How do I publish my data in the USLCI?
 
-This page is part of the [USLCI Submission Guide].  The purpose of this page is to help you, the Data Provider, understand the entire process for publishing your life cycle inventory (LCI) data in the U.S. Life Cycle Inventory Database (USLCI)][uslci-landing].  If you are looking for information to help you decide if publishing your data in the USLCI fits your publication goals, please see *[Should I publish in the USLCI?](should-i-publish-in-the-uslci.md)*.  You can also find a list of frequently asked questions [here](faq.md).
-
 ###### If you are ready to begin the publication process, [please use our online appraisal form](appraisal-form.md).
+
+This page is part of the [USLCI Submission Guide](README.md).  The purpose of this page is to help you, the Data Provider, understand the process for publishing life cycle inventory (LCI) data in the U.S. Life Cycle Inventory Database (USLCI)][uslci-landing].  If you are looking for information to help you decide if publishing your data in the USLCI fits your publication goals, please see *[Should I publish in the USLCI?](should-i-publish-in-the-uslci.md)*.  You can also find a list of frequently asked questions [here](faq.md).
 
 This page is divided into the following sections and subsections.
   1. [Overview of the `Digital Curation Process`]
@@ -17,33 +17,44 @@ This page is divided into the following sections and subsections.
     * Our data publication platorm
 
 <a id="digital-curation-overview"></a>
-## Overview of the `Digital Curation Process`
-NREL uses a `Digital Curation Process` for receiving, reviewing, publishing, and preserving data and metadata submitted to the USLCI.  The process is divided into five phases:
+## Overview of the *Digital Curation Process*
+NREL uses a *Digital Curation Process* for receiving, reviewing, publishing, and preserving data and metadata submitted to the USLCI.  The process is divided into five phases:
   1. [Appraisal](#appraisal)  
-  2. [Ingest](#ingest)  
+  2. [Ingest & Onboarding](#ingest-and-onboarding)  
   3. [Review](#review)  
   4. [Publication](#publication)  
   5. [Preservation](#preservation)  
 
-Phases 1-4 (i.e. Appraisal through Publication) take approximately 1-3 months to complete depending on the number and size of the datasets.  Each of the four phases is discussed in greater detail below.
+One common question from potential Data Providers is, "How long will it take to publish my data in the USLCI?"  That question is answered in our [Frequently Asked Questions page](faq.md#how-long).
+
+Each of the four phases is discussed in greater detail below.
 
 <a id="appraisal"></a>
 ### Appraisal
-The Digital Curation Process begins with Appraisal.  This phase generally take 1-2 weeks to complete and it serves as a pre-screening to make sure that the scope of your data fits the USLCI's mission.
+The objectives of the Appraisal phase are to:
+  * Verify the fitness of your data for publication in the USLCI
+  * If appropriate, develop a plan for the [Ingest](#ingest) and [Review](#review) phases of the Digital Curation Process.
 
-The Appraisal phase begins when you complete and submit the [online appraisal form](appraisal-form.md).  That information will be reviewed by a Data Curator who will reach out to you via phone or emial to set up an 30-60 minute Appraisal Meeting.  During the Appraisal Meeting you will discuss your publication goals with the Data Curator and you will receive feedback regarding whether the content and quality of your data fits with the USLCIs' mission.
+The Appraisal phase is composed of the following elements:
+  * Submission of the [online appraisal form](appraisal-form.md)
+  * Preliminary data review by the Data Curator
+  * (If appropriate) An Appraisal Meeting
 
-The Appraisal Meeting will result in one of three outcomes:
-  1. Acceptance
+The Appraisal phase begins when you submit the [online appraisal form](appraisal-form.md).  That information will be reviewed by a USLCI Data Curator who will reach out to you via phone or email within five business days with a tentative decision regarding the fitness of your data for publication in the USLCI.  If the Data Provider decides that your data likely fits the USLCI's mission, she will coordinate with you to set up a 30-60 minute Appraisal Meeting.  
+
+The Appraisal Meeting is an opportunity to evaluate the data at a deeper level and, if appropriate, develop a planfor the [Ingest](#ingest) and [Review](#review) phases of the Digital Curation Process.  The Appraisal Meeting will result in one of three outcomes:
+  1. Data Approved
   2. Revise and Resubmit
-  3. Denial
+  3. Data Denial
 
-Data that is Accepted is moved to the [Ingest](#ingest) phase.  A *Revise and Resubmit* outcome means that 
+A *Data Approved* outcome means that your data is advanced to the [Ingest](#ingest) phase with no modifications.  This outcome is rare for an initial submission.  A *Revise and Resubmit* outcome means that the Data Curator will ask you to make specific changes to the data and metadata in your LCI model.  After those changes are made you will contact the Data Curator via email for a follow-up Appraisal Meeting.  A *Data Denial* outcome means that your data does not fit the USLCI's mission and will not be further considered for publication.
 
-During the Appraisal phase we review the information you provide in the [appraisal form]
+<a id="ingest-and-onboarding"></a>
+### Ingest & Onboarding
+The Ingest & Onboarding phase is concerned with entering a data submission into the USLCI's file management system and establishing norms of collaboration between the Data Provider and the Data Curator.
 
-<a id="ingest"></a>
-### Ingest
+Currently data submissions are received via a dedicated Box.com folder, however NREL is currently developing an automated data submission process that may be implemented in the future.
+
 
 <a id="review"></a>
 ### Review
